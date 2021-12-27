@@ -22,8 +22,8 @@ title: Média Final UEPB
 email: vr4t5k4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Calcule sua média final na UEPB!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/uepb-test" # the subpath of your site, e.g. /blog
+url: "https://vratska.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vratska
 instagram_username: vratskav
 
